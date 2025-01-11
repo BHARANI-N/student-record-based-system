@@ -1,1 +1,1 @@
-# student-record-based-system
+In this project, i have build a mini Student Record Management System in C language, in which I can add a new student's record, modify existing student records, search if a student exists or not, delete a student's record, and sorting of student record  
